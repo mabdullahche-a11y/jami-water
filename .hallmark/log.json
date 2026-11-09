@@ -1,0 +1,41 @@
+[
+ {
+  "sections": [
+   "Hero",
+   "Batch",
+   "Ordering",
+   "Sizes",
+   "Process",
+   "Evidence",
+   "Plans",
+   "Audience",
+   "Coverage",
+   "Reviews",
+   "FAQ",
+   "Guides",
+   "Contact"
+  ],
+  "imagery": "Original SVG and four labelled photo slots",
+  "theme": "Ocean (by request)",
+  "hero": "Left display type and right bottle specimen",
+  "shape": "Batch ledger",
+  "nav": "Sticky wordmark and full-screen numbered menu",
+  "waived": [
+   "38iii",
+   "80"
+  ],
+  "fingerprint": "ocean-batch-ledger-19l",
+  "axes": [
+   "airy",
+   "editorial",
+   "evidence-led"
+  ],
+  "signature": "Traceable 19-litre bottle",
+  "prompt": "Jami Water static multi-page demo for Gujranwala",
+  "entry": "index.html",
+  "photos": [],
+  "footer": "Wave-edge contact ledger",
+  "date": "2026-11-09",
+  "mode": "build"
+ }
+]

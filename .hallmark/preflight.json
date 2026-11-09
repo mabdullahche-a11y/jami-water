@@ -1,0 +1,6 @@
+{
+  "scanned": "2026-11-09",
+  "findings": ["Existing static site archived intact in backup-v1", "No original photos found", "Business identity, palette and type supplied in the brief"],
+  "preserved": ["Original site files in backup-v1", "Relative HTML entry points"],
+  "introduced": ["Ocean theme", "Batch ledger", "Original SVG water and bottle system"]
+}
